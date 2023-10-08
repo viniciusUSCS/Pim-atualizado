@@ -1,0 +1,6 @@
+https://crm-tela-login.netlify.app
+https://crm-tela-de-cadastro.netlify.app
+https://crm-tela-de-clientes.netlify.app
+https://crm-tela-menu-admin.netlify.app
+https://crm-tela-menu-captador.netlify.app
+https://tela-nota-pim.netlify.app/
